@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://diaoise33th3y"]
 
-[ext_resource type="Script" path="res://hud.gd" id="1_ilimw"]
+[ext_resource type="Script" uid="uid://bbp1byu3qt3o1" path="res://hud.gd" id="1_ilimw"]
 [ext_resource type="FontFile" uid="uid://b71mkgsqos3va" path="res://fonts/Xolonium-Regular.ttf" id="1_p6kn5"]
 
 [sub_resource type="InputEventAction" id="InputEventAction_egeaf"]
